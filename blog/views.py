@@ -1,6 +1,6 @@
-from .forms import CommentForm
 from django.shortcuts import render
 from blog.models import Post
+from .forms import CommentForm
 
 
 # Create your views here.
